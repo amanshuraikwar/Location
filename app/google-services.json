@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "419896691900",
+    "firebase_url": "https://report-problem.firebaseio.com",
+    "project_id": "report-problem",
+    "storage_bucket": "report-problem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419896691900:android:7b34b78f777efdfa",
+        "android_client_info": {
+          "package_name": "com.example.sonu.location"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419896691900-5p2kfgg690ejeasi7g7aj18gce7vhqno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuSfS5OxNP-qSuupeEn3qc6QH1ZdoRot4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

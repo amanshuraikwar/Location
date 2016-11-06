@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navigation_item_attachment"
+            android:checked="true"
+            android:icon="@drawable/ic_menu_white_24dp"
+            android:title="one" />
+        <item
+            android:id="@+id/navigation_item_images"
+            android:icon="@drawable/ic_menu_white_24dp"
+            android:title="two" />
+        <item
+            android:id="@+id/navigation_item_location"
+            android:icon="@drawable/ic_menu_white_24dp"
+            android:title="three" />
+    </group>
+
+    <item android:title="four">
+        <menu>
+            <item
+                android:icon="@drawable/ic_menu_white_24dp"
+                android:title="five" />
+            <item
+                android:icon="@drawable/ic_menu_white_24dp"
+                android:title="six" />
+        </menu>
+    </item>
+
+</menu>
